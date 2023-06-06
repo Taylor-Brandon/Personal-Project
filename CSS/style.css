@@ -1,0 +1,66 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background: linear-gradient(to right, rgb(244, 244, 156), rgb(250, 205, 213), rgb(253, 133, 133));
+}
+
+h1 {
+    font-family: 'Kenia', cursive;
+    font-family: 'Lilita One', cursive;
+    font-size: 40px;
+    color: rgb(194, 168, 237);
+}
+
+a {
+    text-decoration: none;
+    color:rgb(176, 170, 241);
+    font-size: 25px;
+}
+
+li {
+    font-family: 'Kenia', cursive;
+    font-family: 'Lilita One', cursive;
+    display: inline;
+    text-decoration: none;
+    padding-left: 25px;
+}
+
+ul {
+    text-align: right;
+    margin-right: 70px;
+}
+
+section {
+    margin-top: 200px;
+}
+
+p {
+    font-family: 'Kenia', cursive;
+    font-family: 'Lilita One', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto; 
+    padding: 10px;
+    max-width: 800px; 
+    border: 10px solid white;
+    border-radius: 20px;
+    color: rgb(176, 170, 241);
+}
+
+footer {
+    font-family: 'Kenia', cursive;
+    font-family: 'Lilita One', cursive;
+    margin-top: 480px;
+    text-align: center;
+    color: rgb(176, 170, 241);
+}
+
+.button {
+    border: 10px solid white;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 30px ;
+}
